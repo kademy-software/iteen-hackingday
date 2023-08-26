@@ -1,4 +1,7 @@
 # iteen-hackingday
+Framwork : Bootstrap 5.0
+API : Open AI
+
 Guide to run the [iteen] program using VS Code and Live Server: 🙈
 
 Please follow the steps below to run the [iteen] program. Make sure you have Node.js installed before proceeding.
